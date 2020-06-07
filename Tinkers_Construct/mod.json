@@ -1,0 +1,12 @@
+{
+    "mod_name": "Tinkers' Construct",
+    "mod_id": "TConstruct",
+    "mod_version": "1.4",
+    "mc_version": "1.5.1",
+    "mod_authors": [
+        "mDiyo"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1659892-tinkers-construct",
+    "description": "A little of this, a little of that, a lot of tinkering, and a lot of tools",
+    "mod_dir": "/Tinkers_Construct/"
+}

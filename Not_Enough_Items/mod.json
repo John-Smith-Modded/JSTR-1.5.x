@@ -1,0 +1,11 @@
+{
+    "mod_name": "Not Enough Items",
+    "mod_id": "NotEnoughItems",
+    "mod_version": "1.8.2.r31",
+    "url_website": "bdew.net/mods/neiaddons",
+    "description": "",
+    "mod_dir": "/Not_Enough_Items/",
+    "mod_authors": [
+        "ChickenBones"
+    ]
+}

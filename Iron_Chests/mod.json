@@ -1,0 +1,13 @@
+{
+    "mod_name": "Iron Chests",
+    "mod_id": "IronChest",
+    "mod_version": "5.2.8.447",
+    "mc_version": "1.4.4",
+    "mod_authors": [
+        "cpw"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/981855-",
+    "description": "New chests with larger sizes, with in-place upgrade items.\nThe feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest",
+    "mod_filename": "ironchest-1.7.10-6.0.62.742-universal.jar",
+    "mod_dir": "/Iron_Chests/"
+}
